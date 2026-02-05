@@ -286,4 +286,4 @@ This project is licensed under the ISC License.
 
 ---
 
-<p align="center">Made with ❤️ and AI</p>
+<p align="center">Made with ❤️ and Punya</p>
